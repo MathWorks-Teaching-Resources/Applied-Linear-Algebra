@@ -3,11 +3,11 @@
 # <span style="color:rgb(213,80,0)">Applied Linear Algebra</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=PROJECTNAME.prj)
+[![View Applied-Linear-Algebra on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=PROJECTNAME.prj)
 
 **Curriculum Module**
 
-_Created with R2023b. Compatible with R2023b and later releases._
+_Created with R2023a. Compatible with R2023a and later releases._
 
 # Information
 
@@ -55,47 +55,37 @@ MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used fr
 <a name="H_E8C62B23"></a>
 # Scripts
 ## [BalancingChemicalEquations](./Scripts/BalancingChemicalEquations.mlx)
-|      |      |      |
-| :-- | :-- | :-- |
-| Chemical reactions | **In this script, students will...** | **Academic disciplines**  |
-| <img src="Images/Reaction.png" width="171" alt="Reaction.png"> | • build and solve matrix equations• identify the rank and null spaces of matrices• balance chemical reactions | • Chemistry• Mathematics  |
-|      |      |       |
+| Chemical reactions | **In this script, students will...** |  **Academic disciplines**  |
+| :--- | :--- | :--- |
+| <img src="Images/Reaction.png" width="171" alt="Reaction.png"> | <ul><li> build and solve matrix equations<li> identify the rank and null spaces of matrices<li> balance chemical reactions</ul> | <ul><li> Chemistry<li> Mathematics <ul> |
 
 ## [MarkovModeling](./Scripts/MarkovModeling.mlx)
-|      |      |      |
-| :-- | :-- | :-- |
-| Zombie outbreak | **In this script, students will...** | **Academic disciplines**  |
-| <img src="Images/SIZ-diagram-complete.png" width="171" alt="SIZ-diagram-complete.png"> | • compute powers of transition matrices• compute eigenvalues and eigenvectors and explain their meaning in a modeling context• create a model of a zombie outbreak• analyze real-world scenarios for mayflies and HIV | • Biology• Mathematics  |
-|      |      |       |
+| Zombie outbreak | **In this script, students will...** |  **Academic disciplines**  |
+| :--- | :--- | :--- |
+| <img src="Images/SIZ-diagram-complete.png" width="171" alt="SIZ-diagram-complete.png"> | <ul><li> compute powers of transition matrices <li> compute eigenvalues and eigenvectors and explain their meaning in a modeling context• create a model of a zombie outbreak <li> analyze real-world scenarios for mayflies and HIV </ul> | <ul><li> Biology <li> Mathematics </ul> |
 
 ## [Steganography](./Scripts/Steganography.mlx)
-|      |      |      |
-| :-- | :-- | :-- |
-| Image encryption | **In this script, students will...** | **Academic disciplines**  |
-| <img src="Images/SmStorm.png" width="171" alt="SmStorm.png"> | • use matrix arithmetic• represent images and text as matrices• encrypt images inside other images | • Computer Science• Mathematics  |
-|      |      |       |
+| Image encryption| **In this script, students will...** |  **Academic disciplines**  |
+| :--- | :--- | :--- |
+| <img src="Images/SmStorm.png" width="171" alt="SmStorm.png"> | <ul><li> use matrix arithmetic <li> represent images and text as matrices <li> encrypt images inside other images </ul>| <ul><li> Computer Science <li> Mathematics </ul> |
 
 ## [StaticForces](./Scripts/StaticForces.mlx) and [Moments](./Scripts/Moments.mlx)
-|      |      |      |
-| :-- | :-- | :-- |
-| Static force analysis | **In these scripts, students will...** | **Academic disciplines**  |
-| <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> | • define and normalize vectors• build and solve matrix equations• calculate dot products and cross products• solve for moments, tensions, and forces | • Civil Engineering• Mechanical Engineering• Mathematics  |
-|      |      |       |
+| Static force analysis | **In this script, students will...** |  **Academic disciplines**  |
+| :--- | :--- | :--- |
+| <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> | <ul><li> define and normalize vectors <li> build and solve matrix equations <li> calculate dot products and cross products <li> solve for moments, tensions, and forces </ul> | <ul><li> Civil Engineering <li> Mechanical Engineering• Mathematics </ul> |
+
 
 ## [Identify Digits](./Scripts/IdentifyDigits.mlx) and [ReadMyWriting](./Scripts/ReadMyWriting.mlx)
-|      |      |      |
-| :-- | :-- | :-- |
-| Machine learning | **In these scripts, students will...** | **Academic disciplines**  |
-| <img src="Images/ConfusionMatrix.png" width="171" alt="ConfusionMatrix.png"> | • use singular value decomposition and distance• use binary morphology tools to preprocess image data• create a tool that will identify handwritten digits | • Computer Science• Mathematics  |
-|      |      |       |
+| Machine learning | **In this script, students will...** |  **Academic disciplines**  |
+| :--- | :--- | :--- |
+| <img src="Images/ConfusionMatrix.png" width="171" alt="ConfusionMatrix.png"> | <ul><li> use Gram-Schmidt decomposition and distance <li> use binary morphology tools to preprocess image data <li> create a tool that will identify handwritten digits </ul> | <ul><li> Computer Science <li> Mathematics </ul> |
+
 
 <a name="H_20BE3B3E"></a>
 ## [Robotics](./Scripts/Robotics.mlx)
-|      |      |      |
-| :-- | :-- | :-- |
-| Robotic manipulators | **In this script, students will...** | **Academic disciplines**  |
-| <img src="Images/RoboticArm.png" width="171" alt="RoboticArm.png"> | • compute the Cartesian result of a sum of polar vectors• explore the concept of a configuration space through visualizations• explain the connection between degrees of freedom, multiplicity of solutions, and the null space | • Mechanical engineering• Mathematics  |
-|      |      |       |
+| Robotic manipulators | **In this script, students will...** |  **Academic disciplines**  |
+| :--- | :--- | :--- |
+| <img src="Images/RoboticArm.png" width="171" alt="RoboticArm.png"> | <ul><li> compute the Cartesian result of a sum of polar vectors <li> explore the concept of a configuration space through visualizations <li> explain the connection between degrees of freedom, multiplicity of solutions, and the null space </ul> | <ul><li> Mechanical engineering <li> Mathematics </ul> |
 
 # License
 
@@ -114,6 +104,7 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 Have any questions or feedback? Contact the [MathWorks teaching resources team.](mailto:onlineteaching@mathworks.com)
 
 
-*Copyright 2023 The MathWorks, Inc.*
+*&copy; Copyright 2023 The MathWorks, Inc.*
 
-
+
+
