@@ -54,35 +54,35 @@ MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used fr
 
 <a name="H_E8C62B23"></a>
 # Scripts
-## [BalancingChemicalEquations](./Scripts/BalancingChemicalEquations.mlx)
+## [BalancingChemicalEquations](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=BalancingChemicalEquations.mlx)
 | Chemical reactions | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
 | <img src="Images/Reaction.png" width="171" alt="Reaction.png"> | <ul><li> build and solve matrix equations<li> identify the rank and null spaces of matrices<li> balance chemical reactions</ul> | <ul><li> Chemistry<li> Mathematics <ul> |
 
-## [MarkovModeling](./Scripts/MarkovModeling.mlx)
+## [MarkovModeling](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=MarkovModeling.mlx)
 | Zombie outbreak | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
 | <img src="Images/SIZ-diagram-complete.png" width="171" alt="SIZ-diagram-complete.png"> | <ul><li> compute powers of transition matrices <li> compute eigenvalues and eigenvectors and explain their meaning in a modeling context• create a model of a zombie outbreak <li> analyze real-world scenarios for mayflies and HIV </ul> | <ul><li> Biology <li> Mathematics </ul> |
 
-## [Steganography](./Scripts/Steganography.mlx)
+## [Steganography](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Steganography.mlx)
 | Image encryption| **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
 | <img src="Images/SmStorm.png" width="171" alt="SmStorm.png"> | <ul><li> use matrix arithmetic <li> represent images and text as matrices <li> encrypt images inside other images </ul>| <ul><li> Computer Science <li> Mathematics </ul> |
 
-## [StaticForces](./Scripts/StaticForces.mlx) and [Moments](./Scripts/Moments.mlx)
+## [StaticForces](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=StaticForces.mlx) and [Moments](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Moments.mlx)
 | Static force analysis | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
 | <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> | <ul><li> define and normalize vectors <li> build and solve matrix equations <li> calculate dot products and cross products <li> solve for moments, tensions, and forces </ul> | <ul><li> Civil Engineering <li> Mechanical Engineering• Mathematics </ul> |
 
 
-## [Identify Digits](./Scripts/IdentifyDigits.mlx) and [ReadMyWriting](./Scripts/ReadMyWriting.mlx)
+## [Identify Digits](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=IdentifyDigits.mlx) and [ReadMyWriting](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=ReadMyWriting.mlx)
 | Machine learning | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
 | <img src="Images/ConfusionMatrix.png" width="171" alt="ConfusionMatrix.png"> | <ul><li> use Gram-Schmidt decomposition and distance <li> use binary morphology tools to preprocess image data <li> create a tool that will identify handwritten digits </ul> | <ul><li> Computer Science <li> Mathematics </ul> |
 
 
 <a name="H_20BE3B3E"></a>
-## [Robotics](./Scripts/Robotics.mlx)
+## [Robotics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Robotics.mlx)
 | Robotic manipulators | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
 | <img src="Images/RoboticArm.png" width="171" alt="RoboticArm.png"> | <ul><li> compute the Cartesian result of a sum of polar vectors <li> explore the concept of a configuration space through visualizations <li> explain the connection between degrees of freedom, multiplicity of solutions, and the null space </ul> | <ul><li> Mechanical engineering <li> Mathematics </ul> |
