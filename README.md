@@ -72,7 +72,7 @@ MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used fr
 ## [StaticForces](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=StaticForces.mlx) and [Moments](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Moments.mlx)
 | Static force analysis | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
-| <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> | <ul><li> define and normalize vectors <li> build and solve matrix equations <li> calculate dot products and cross products <li> solve for moments, tensions, and forces </ul> | <ul><li> Civil Engineering <li> Mechanical Engineering• Mathematics </ul> |
+| <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> | <ul><li> define and normalize vectors <li> build and solve matrix equations <li> calculate dot products and cross products <li> solve for moments, tensions, and forces </ul> | <ul><li> Civil Engineering <li> Mechanical Engineering <li> Mathematics </ul> |
 
 
 ## [Identify Digits](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=IdentifyDigits.mlx) and [ReadMyWriting](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=ReadMyWriting.mlx)
