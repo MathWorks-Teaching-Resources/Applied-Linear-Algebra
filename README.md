@@ -85,7 +85,7 @@ MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used fr
 ## [Robotics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Robotics.mlx)
 | Robotic manipulators | **In this script, students will...** |  **Academic disciplines**  |
 | :--- | :--- | :--- |
-| <img src="Images/RoboticArm.png" width="171" alt="RoboticArm.png"> | <ul><li> compute the Cartesian result of a sum of polar vectors <li> explore the concept of a configuration space through visualizations <li> explain the connection between degrees of freedom, multiplicity of solutions, and the null space </ul> | <ul><li> Mechanical engineering <li> Mathematics </ul> |
+| <img src="Images/RoboticArm.png" width="171" alt="RoboticArm.png"> | <ul><li> compute the Cartesian result of a sum of polar vectors <li> explore the concept of a configuration space through visualizations <li> explain the connection between degrees of freedom, multiplicity of solutions, and the null space </ul> | <ul><li> Mechanical engineering <li> Electrical engineering <li> Mathematics </ul> |
 
 # License
 
