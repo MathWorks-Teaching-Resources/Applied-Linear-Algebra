@@ -94,7 +94,7 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 <a name="H_B6DB8F8C"></a>
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/release/CONTRIBUTING.md) page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
 © *Copyright 2023 The MathWorks, Inc.*
