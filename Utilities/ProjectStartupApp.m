@@ -144,6 +144,12 @@ classdef ProjectStartupApp < matlab.apps.AppBase
                 open README.mlx
             elseif event.Source == app.MainMenuButton
                 open MainMenu.mlx
+            elseif event.Source == app.FacultyButton
+                open MainMenu.mlx            
+            elseif event.Source == app.StudentButton
+                open MainMenu.mlx
+            elseif event.Source == app.OtherButton
+                open MainMenu.mlx
             else
                 disp("Thank you for your time.")
             end
