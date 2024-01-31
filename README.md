@@ -49,33 +49,33 @@ MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used fr
 
 <a name="H_E8C62B23"></a>
 # Scripts
-## [BalancingChemicalEquations](./Scripts/BalancingChemicalEquations.mlx)
+## [BalancingChemicalEquations](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/BalancingChemicalEquations.mlx)
 | Chemical reactions | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/Reaction.png" width="171" alt="Reaction.png"> | • build and solve matrix equations <br> • identify the rank and null spaces of matrices <br> • balance chemical reactions | • Chemistry  <br> • Mathematics  |
 
-## [MarkovModeling](./Scripts/MarkovModeling.mlx)
+## [MarkovModeling](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/MarkovModeling.mlx)
 | Zombie outbreak | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/SIZ-diagram-complete.png" width="171" alt="SIZ-diagram-complete.png"> | • compute powers of transition matrices <br> • compute eigenvalues and eigenvectors and explain their meaning in a modeling context  <br> • create a model of a zombie outbreak   <br> • analyze real-world scenarios for mayflies and HIV | • Biology  <br> • Mathematics  |
 
-## [Steganography](./Scripts/Steganography.mlx)
+## [Steganography](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Steganography.mlx)
 | Image encryption | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/SmStorm.png" width="171" alt="SmStorm.png"> | • use matrix arithmetic <br> • represent images and text as matrices <br> • encrypt images inside other images | • Computer Science  <br> • Mathematics  |
 
-## [StaticForces](./Scripts/StaticForces.mlx) and [Moments](./Scripts/Moments.mlx)
+## [StaticForces](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/StaticForces.mlx) and [Moments](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Moments.mlx)
 | Static force analysis | **In these scripts, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> | • define and normalize vectors <br> • build and solve matrix equations <br> • calculate dot products and cross products <br> • solve for moments, tensions, and forces | • Civil Engineering <br> • Mechanical Engineering <br> • Mathematics  |
 
-## [Identify Digits](./Scripts/IdentifyDigits.mlx) and [ReadMyWriting](./Scripts/ReadMyWriting.mlx)
+## [Identify Digits](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/IdentifyDigits.mlx) and [ReadMyWriting](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/ReadMyWriting.mlx)
 | Machine learning | **In these scripts, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/ConfusionMatrix.png" width="171" alt="ConfusionMatrix.png"> | • use singular value decomposition and distance <br> • use binary morphology tools to preprocess image data <br> • create a tool that will identify handwritten digits | • Computer Science  <br> • Mathematics  |
 
 <a name="H_20BE3B3E"></a>
-## [Robotics](./Scripts/Robotics.mlx)
+## [Robotics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Robotics.mlx)
 | Robotic manipulators | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/RoboticArm.png" width="171" alt="RoboticArm.png"> | • compute the Cartesian result of a sum of polar vectors <br> • explore the concept of a configuration space through visualizations <br> • explain the connection between degrees of freedom, multiplicity of solutions, and the null space | • Mechanical engineering<br> • Mathematics  |
@@ -87,7 +87,7 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 <a name="H_46A32690"></a>
 # Related Courseware Modules
 -  [Matrix Methods of Linear Algebra](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra) is available on [GitHub](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra) or [<img src="Images/OpenInFX.png" width="104" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra) or [<img src="Images/OpenInMO.png" width="154" alt="Open in MATLAB Online badge">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj) 
--  [Vector Arithmetic](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic) is available on [GitHub](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic) or [<img src="Images/OpenInFX.png" width="104" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic) or [<img src="Images/OpenInMO.png" width="154" alt="Open in MATLAB Online badge">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&file=vectorBasics.mlx) 
+-  [Vector Arithmetic](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic) is available on [GitHub](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic) or [<img src="Images/OpenInFX.png" width="104" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic) or [<img src="Images/OpenInMO.png" width="154" alt="Open in MATLAB Online badge">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&file=Scripts/vectorBasics.mlx) 
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
