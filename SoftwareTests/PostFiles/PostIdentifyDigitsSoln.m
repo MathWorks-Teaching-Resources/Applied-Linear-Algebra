@@ -1,3 +1,3 @@
-%  Post-run script for IdentifyDigitsSoln.mlx
+%  Post-run script for IdentifyDigitsSoln.m
 % ---- Post-run commands -----
- 
+% <matlab:ShareFeedback Share your feedback>

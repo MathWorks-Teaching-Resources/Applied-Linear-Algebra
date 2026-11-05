@@ -1,14 +1,16 @@
 # <span style="color:rgb(213,80,0)">Applied Linear Algebra</span>
 
+Users of MATLAB R2024b or older should use the [legacy MLX release](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra/releases/tag/mlx). The current module requires MATLAB R2025a or newer.
+
 Learn linear algebra by applications in stoichiometry, steganography, static force analysis, and machine learning.
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=README.m)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Applied-Linear-Algebra/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Applied-Linear-Algebra)
 
 **Curriculum Module**
 
-_Created with R2024a. Compatible with R2024a and later releases._
+_Created with R2024a. Compatible with R2025a and later releases._
 
 # Information
 
@@ -40,7 +42,7 @@ Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https:/
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [AppliedLinAlg.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=README.mlx). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [AppliedLinAlg.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=README.m). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start.
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
@@ -51,45 +53,45 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 ## Products
 
-MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used frequently as well. The <samp>sevilla.jpg</samp> image in <samp>Steganography.mlx</samp> comes from the Image Processing Toolbox™. The <samp>IdentifyDigits</samp> and <samp>ReadMyWriting</samp> scripts use both the Image Processing Toolbox™, and the Statistics and Machine Learning Toolbox™. <samp>IdentifyDigits</samp> also uses the Deep Learning Toolbox™ while <samp>ReadMyWriting</samp> uses MATLAB Mobile.
+MATLAB® is used throughout. Tools from the Symbolic Math Toolbox™ are used frequently as well. The <samp>sevilla.jpg</samp> image in <samp>Steganography.m</samp> comes from the Image Processing Toolbox™. The <samp>IdentifyDigits</samp> and <samp>ReadMyWriting</samp> scripts use both the Image Processing Toolbox™, and the Statistics and Machine Learning Toolbox™. <samp>IdentifyDigits</samp> also uses the Deep Learning Toolbox™ while <samp>ReadMyWriting</samp> uses MATLAB Mobile.
 
 # Scripts
-## [BalancingChemicalEquations](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/BalancingChemicalEquations.mlx)
+## [BalancingChemicalEquations](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/BalancingChemicalEquations.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | Chemical reactions <br>  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/Reaction.png" width="171" alt="Reaction.png"> <br>  | • build and solve matrix equations <br> • identify the rank and null spaces of matrices <br> • balance chemical reactions <br>  | • Chemistry <br> • Mathematics <br>   |
 |      |      |       |
 
-## [MarkovModeling](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/MarkovModeling.mlx)
+## [MarkovModeling](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/MarkovModeling.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | Zombie outbreak <br>  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/SIZ-diagram-complete.png" width="171" alt="SIZ-diagram-complete.png"> <br>  | • compute powers of transition matrices <br> • compute eigenvalues and eigenvectors and explain their meaning in a modeling context <br> • create a model of a zombie outbreak <br> • analyze real\-world scenarios for mayflies and HIV <br>  | • Biology <br> • Mathematics <br>   |
 |      |      |       |
 
-## [Steganography](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Steganography.mlx)
+## [Steganography](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Steganography.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | Image encryption <br>  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/SmStorm.png" width="171" alt="SmStorm.png"> <br>  | • use matrix arithmetic <br> • represent images and text as matrices <br> • encrypt images inside other images <br>  | • Computer Science <br> • Mathematics <br>   |
 |      |      |       |
 
-## [StaticForces](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/StaticForces.mlx) and [Moments](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Moments.mlx)
+## [StaticForces](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/StaticForces.m) and [Moments](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Moments.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | Static force analysis <br>  | **In these scripts, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/SupportedDoor.png" width="171" alt="SupportedDoor.png"> <br>  | • define and normalize vectors <br> • build and solve matrix equations <br> • calculate dot products and cross products <br> • solve for moments, tensions, and forces <br>  | • Civil Engineering <br> • Mechanical Engineering <br> • Mathematics <br>   |
 |      |      |       |
 
-## [Identify Digits](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/IdentifyDigits.mlx) and [ReadMyWriting](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/ReadMyWriting.mlx)
+## [Identify Digits](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/IdentifyDigits.m) and [ReadMyWriting](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/ReadMyWriting.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | Machine learning <br>  | **In these scripts, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/ConfusionMatrix.png" width="171" alt="ConfusionMatrix.png"> <br>  | • use singular value decomposition and distance <br> • use binary morphology tools to preprocess image data <br> • create a tool that will identify handwritten digits <br>  | • Computer Science <br> • Mathematics <br>   |
 |      |      |       |
 
-## [Robotics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Robotics.mlx)
+## [Robotics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=Scripts/Robotics.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | Robotic manipulators <br>  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
@@ -114,6 +116,6 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
-© *Copyright 2025 The MathWorks, Inc.*
+© *Copyright 2026 The MathWorks, Inc.*
 
 

@@ -1,4 +1,4 @@
-%  Pre-run script for ReadMyWriting.mlx
+%  Pre-run script for ReadMyWriting.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
@@ -7,3 +7,4 @@ numPhotographs = length(curPhotographs);
 m = "testConnection"; %#ok<NASGU>
 c = "testCamera"; %#ok<NASGU>
 imgCropped = imread(fullfile("Data","SqNum8.jpg")); %#ok<NASGU>
+% <matlab:ShareFeedback Share your feedback>
